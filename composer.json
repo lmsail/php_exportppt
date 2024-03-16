@@ -1,0 +1,9 @@
+{
+    "name": "mr.m/exportppt",
+    "type": "project",
+    "autoload": {
+    },
+    "require": {
+        "phpoffice/phppresentation": "dev-master"
+    }
+}
